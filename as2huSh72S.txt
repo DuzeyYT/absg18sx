@@ -1,2 +1,7 @@
+--- Lagsync V0.2
++ Added Lagsync Loader
++ Added Lagsync Unloader
+
+--- Lagsync V0.1 ---
 + Added Changelog
 + Added Lagsync Tab
