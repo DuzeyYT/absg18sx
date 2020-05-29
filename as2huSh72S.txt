@@ -1,2 +1,2 @@
-+ Added
-+ Added other
++ Added Changelog
++ Added Lagsync Tab
