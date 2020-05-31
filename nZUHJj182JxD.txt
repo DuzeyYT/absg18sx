@@ -1,3 +1,9 @@
+--- Update 31.05.2020 ---
+- Added Hiterwalk
+- Added Hiterwalk Lag
+- Added LBY Flick
+- Added LBY Flick Lag
+
 --- Update 30.05.2020 ---
 
 - Added Updatelog
